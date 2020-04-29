@@ -1,0 +1,62 @@
+{
+  "_from": "paypal-payflow-helper",
+  "_id": "paypal-payflow-helper@1.0.7",
+  "_inBundle": false,
+  "_integrity": "sha512-nnmAouMUp4TtWtAP6BCGf+ljaoB77LUsfRmif7JKdiSFxwJf6HRuyfgND97kXrRAxT8N9IuNTbvXV2t+gjdwFw==",
+  "_location": "/paypal-payflow-helper",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "paypal-payflow-helper",
+    "name": "paypal-payflow-helper",
+    "escapedName": "paypal-payflow-helper",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/paypal-payflow-helper/-/paypal-payflow-helper-1.0.7.tgz",
+  "_shasum": "afd9b5175039b81131aeb7ef6c740eafd74f363a",
+  "_spec": "paypal-payflow-helper",
+  "_where": "F:\\",
+  "author": {
+    "name": "Parvez Rahaman",
+    "email": "indparvez@gmail.com",
+    "url": "parvezrahaman.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "md5": "^2.2.1",
+    "node-libcurl": "^1.3.2",
+    "promisify-node": "^0.5.0"
+  },
+  "deprecated": false,
+  "description": "A nodeJS simplified hepler for paypal payflow. This covers almost all feature of paypal palflow.",
+  "devDependencies": {
+    "hint-hint": "~0.3.0",
+    "tap": "~0.3.1"
+  },
+  "engines": {
+    "node": ">=0.6"
+  },
+  "keywords": [
+    "paypal",
+    "paypal payflow",
+    "paypal payflow nodejs",
+    "paypal nodejs"
+  ],
+  "main": "./lib/index.js",
+  "name": "paypal-payflow-helper",
+  "optionalDependencies": {},
+  "repository": {
+    "url": ""
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "version": "1.0.8"
+}
